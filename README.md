@@ -1,5 +1,8 @@
 # 🚀 REST API Demo
 
+![Node.js](https://img.shields.io/badge/Node.js-runtime-green)
+![Express.js](https://img.shields.io/badge/Express.js-framework-black)
+
 A **minimal REST API** built with Node.js and Express.js using **in-memory dummy data**.
 
 > ⚡ No database required — perfect for learning and demonstrating all REST API operations.
